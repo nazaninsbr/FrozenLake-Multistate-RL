@@ -7,3 +7,5 @@ Algorithms:
 * Sarsa
 * Value Iteration 
 * Monte Carlo 
+* Sarsa Lambda
+* n-step Sarsa
